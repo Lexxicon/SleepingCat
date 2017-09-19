@@ -1,0 +1,19 @@
+{
+  "name": "sleepingcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexxicon/SleepingCat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexxicon/SleepingCat/issues"
+  },
+  "homepage": "https://github.com/Lexxicon/SleepingCat#readme"
+}
